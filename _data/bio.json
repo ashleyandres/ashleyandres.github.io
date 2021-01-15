@@ -1,72 +1,57 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Ashley Anne Andres",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://ashleyandres.github.io/images/Ashley.jpg",
+    "email": "aandres7@hawaii.edu",
+    "phone": "",
+    "website": "https://ashleyandres.github.io",
+    "summary": "I am studying for a B.S. in Management Information System at Shidler's Business of College at the University of Hawaii at Manoa. I expect to graduate in Spring, 2022.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "postalCode": "96732",
+      "city": "Kahului",
       "countryCode": "USA",
       "region": "Hawaii"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
+        "username": "ashleyandres",
         "url": "http://github.com/changeme"
       },
       {
-        "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
         "network": "instagram",
-        "username": "molly",
+        "username": "_ashleyandres_",
         "url": "http://instagram.com/changeme"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "Management",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Technology",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Social Media Marketing",
       "keywords": [
       ]
     }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "level": "",
+      "name": "Microsoft Office",
+      "level": "Intermediate",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Microsoft Excel",
+        "Microsoft PowerPoint",
+        "Microsoft Word"
       ]
     },
     {
@@ -74,90 +59,74 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Tableau",
+        "Git/GitHub"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
-      "gpa": "",
+      "institution": "University of Hawaii Maui College, Kahului, HI",
+      "area": "Business Administration (Graduated Spring, 2020)",
+      "studyType": "A.S.",
+      "startDate": "2018-08-01",
+      "endDate": "May 2020",
+      "gpa": "3.8",
       "courses": [
+        "Human Relations in Management",
+        "Principles in Management",
+        "Legal Environment Business"
+      ]
+    }
+  ],
+  {
+      "institution": "University of Hawaii at Manoa, Honolulu, HI",
+      "area": "Management Information System (expected Spring, 2022)",
+      "studyType": "B.S.",
+      "startDate": "2020-08-01",
+      "endDate": "Present",
+      "gpa": "3.9",
+      "courses": [
+        "Programming Application System"
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "company": "Office of Extended Learning and Workforce Development at University of Hawaii Maui College",
+      "position": "Operations and Technical support",
+      "website": "http://maui.hawaii.edu/elwd/",
+      "startDate": "2018-03-15",
+      "endDate": "2020-05-20",
+      "summary": "First support to Program Coordinators",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Maintains communication flow between departments, register and guide potential students to the appropriate desired program, assist program coordinators in facilitating classes. "
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
+      "company": "Whole Foods",
+      "position": "Cashier/Courtesy Clerk",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "startDate": "2018-08-10",
+      "endDate": "2018-03-15",
+      "summary": "Key priority was high customer satisfaction and experience while maintaining the flow of lines at the register",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Handle all procedure of transaction, accurately and efficiently adhere to front end policies and PLU codes, and assisted other cashiers"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Dean's List",
+      "date": "2018-Present",
+      "awarder": "University of Hawaii",
+      "summary": "Undergraduates who have maintain a GPA of 3.0 or above throughout their college careers"
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Certificate of Achievement in Business Administration",
+      "date": "2018",
+      "awarder": "University of Hawaii Maui College",
+      "summary": "Graduated with a GPA of 3.8"
     }
   ],
   "references": [
